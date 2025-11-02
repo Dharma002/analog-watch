@@ -24,8 +24,9 @@ The design is fully responsive, so it works perfectly on **mobile, tablet, and d
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/yourusername/analog-clock.git
+   https://github.com/Dharma002/analog-watch
+   
